@@ -1,0 +1,20 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000o\u0000o\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000 \u0000a\u0000u\u0000t\u0000o\u0000d\u0000e\u0000p\u0000l\u0000o\u0000y\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000 \u0000s\u0000e\u0000c\u0000o\u0000n\u0000d\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000 \u0000l\u0000a\u0000s\u0000t\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000 \u0000l\u0000a\u0000s\u0000t\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000\r\u0000 \u00001\u00008\u0000.\u00000\u00005\u0000 \u0000c\u0000o\u0000m\u0000m\u0000i\u0000t\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000 \u00001\u00008\u0000.\u00000\u00005\u0000 \u00002\u0000.\u0000c\u0000o\u0000m\u0000m\u0000i\u0000t\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renarsuurpere/foo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renarsuurpere/foo/issues"
+  },
+  "homepage": "https://github.com/renarsuurpere/foo#readme"
+}
